@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rgoutam25
+- 👋 Hi, I’m Rohit Goutam
 - 👀 I’m interested in Cloud Infrastruture
 - 🌱 I’m currently learning Azure, GCP
 - 💞️ I’m looking to collaborate on ...
